@@ -67,7 +67,7 @@ ul li {
       margin: 0; }
     .header .text-header h2 {
       font-size: 2em;
-      font-weight: 200;
+      font-weight: 400;
       color: #2F4254;
       margin: 0; }
   .header .devicons {
@@ -96,7 +96,7 @@ ul li {
 
 .content div.jobs {
   font-size: 1.5em;
-  font-weight: 200; }
+  font-weight: 400; }
   .content div.jobs div.job span.job-name {
     display: block;
     font-weight: bold; }
