@@ -5,7 +5,7 @@
 
     div.title {
       font-size: 2em;
-      font-weight: 200;
+      font-weight: 400;
     }
 
     img.title-icon {
@@ -14,7 +14,7 @@
 
     p.info {
       font-size: 1.5em;
-      font-weight: 200;
+      font-weight: 400;
       margin-top: 10px;
 
 
@@ -25,7 +25,7 @@
       list-style-type: circle;
 
       li {
-        font-weight: 200;
+        font-weight: 400;
         margin-left: -10px;
       }
     }
@@ -57,7 +57,7 @@
 
   div.projects {
     font-size: 1.5em;
-    font-weight: 200;
+    font-weight: 400;
 
     div.project {
       span.project-name {
@@ -68,7 +68,7 @@
       span.project-description {
         display: block;
       }
-      
+
       ul li {
         font-size: 0.7em;
       }
